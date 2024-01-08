@@ -4,7 +4,9 @@ This is a movie review application built with React. It allows users to view a l
 
 ## Features
 
-- View a list of movies
+- Search feature to search for movies
+- Create a list of movies
+- Rate movies in the user's list
 - Watch movie trailers
 - Read reviews for each movie
 - Write a review for a movie
@@ -26,12 +28,6 @@ This is a movie review application built with React. It allows users to view a l
 ### Reviews Page
 
 ![Reviews Page](Docs/img/reviewsPage.png)
-
-## Future Improvements
-
-- Add user authentication
-- Allow users to rate movies
-- Add a search feature to search for movies
 
 ## Contributing
 
